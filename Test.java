@@ -2,7 +2,7 @@ public class Test {
     public static void main(String[] args){
 
         Student student = new Student();
-String s1 = student.studentMethod(3);
+String s1 = student.studentMethod(5);
 
 
 
