@@ -5,6 +5,6 @@ public class Teacher extends Group {
 
     @Override
     public String studentMethod(int i) {
-        return "11";
+        return "12";
     }
 }
